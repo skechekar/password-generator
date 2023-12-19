@@ -13,3 +13,4 @@ You can view the deployed project via [here](https://skechekar.github.io/passwor
 
 ### Usage
 
+Click on "Generate Password" and enter your desired password length. Cycle through the options using "OK" as "YES" and "Cancel" as "NO". 
